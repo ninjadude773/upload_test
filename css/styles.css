@@ -1,0 +1,53 @@
+#main{
+    margin: 30px auto;
+    padding: 15px;
+    border: thin solid #110f0f;
+    border-radius: 5px;
+    background: #151616;
+    text-align: center;
+    font-size: 20px;
+    font-family: Helvetica; 
+    }
+  
+  #title{
+    font-size: 36px;
+    font-family: "Comic Sans MS", Georgia;
+    text-align: center;
+    color: #e7e7e7;
+    margin: 0px auto;
+    text-transform: uppercase; 
+  }
+  #title-cap{
+    margin: 5px;
+    color: #e7e7e7
+
+  }
+  #img-div{
+    margin: 0px;
+    width: 100%;
+    border:50px solid gold;
+    background: #a1a310;
+  }
+  #image{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+  }
+  
+  #img-caption{
+    margin: 5px; 
+  }
+  #tribute-info{
+    text-align: left
+    color white;
+  }
+  #quote{
+    background: #BDBDBD;
+    text-align:center;
+    text-shadow: #EEEEEE;
+    padding: 15px;
+  }
+  #tribute-link{
+    font-style:normal ;
+  }
